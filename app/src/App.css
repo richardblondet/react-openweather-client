@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,600,800&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+.text-weight-bold { font-weight: bold !important; }
+.text-weight-bold svg { font-size: 80% !important; margin-right: 9px; }
+.app-img { height: auto; }
