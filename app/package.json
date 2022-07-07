@@ -6,7 +6,7 @@
     "@elastic/datemath": "^5.0.2",
     "@elastic/eui": "^14.4.0",
     "isomorphic-unfetch": "^3.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-icons": "^3.7.0",
